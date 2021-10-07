@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leandro Lima
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Atualmente estudo Java 
+- 🔭 Hoje atuo como Back-end developer
+- 🌱 Atualmente estudo Java - Big Data
 
  <div>
   
