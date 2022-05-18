@@ -1,7 +1,7 @@
-### Olá! Eu sou o Leandro Lima
+### Olá! Eu sou o Leandro Almeida
 
 - 🔭 Hoje atuo como Back-end developer
-- 🌱 Atualmente estudo Java e Python
+- 🌱 Atualmente estudo Java 
 
  <div>
   
