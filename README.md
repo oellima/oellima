@@ -7,7 +7,7 @@ Sou QE Software Quality Engineer focado em automação de testes e desenvolvimen
 
 🧪 QA: Automação de Testes (E2E, API, Unitários, Progressivos, Regressivos, Performance K6/JMeter)
 
-🌐 Estudando: React.js | Node.js | TypeScript
+🌐 Estudando: React.js | Node.js | TypeScript | Playwright
 
 ## Estatísticas do GitHub
 <p align="left">
